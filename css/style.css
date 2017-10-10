@@ -1,0 +1,1105 @@
+
+
+	@font-face {
+			font-family: "GothamProRegular";
+			src: url("../fonts/GothamProRegular/GothamProRegular.eot");
+			src: url("../fonts/GothamProRegular/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProRegular/GothamProRegular.woff") format("woff"),
+			url("../fonts/GothamProRegular/GothamProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProBold";
+			src: url("../fonts/GothamProBold/GothamProBold.eot");
+			src: url("../fonts/GothamProBold/GothamProBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProBold/GothamProBold.woff") format("woff"),
+			url("../fonts/GothamProBold/GothamProBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProBlack";
+			src: url("../fonts/GothamProBlack/GothamProBlack.eot");
+			src: url("../fonts/GothamProBlack/GothamProBlack.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProBlack/GothamProBlack.woff") format("woff"),
+			url("../fonts/GothamProBlack/GothamProBlack.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProItalic";
+			src: url("../fonts/GothamProItalic/GothamProItalic.eot");
+			src: url("../fonts/GothamProItalic/GothamProItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProItalic/GothamProItalic.woff") format("woff"),
+			url("../fonts/GothamProItalic/GothamProItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProMedium";
+			src: url("../fonts/GothamProMedium/GothamProMedium.eot");
+			src: url("../fonts/GothamProMedium/GothamProMedium.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProMedium/GothamProMedium.woff") format("woff"),
+			url("../fonts/GothamProMedium/GothamProMedium.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProLight";
+			src: url("../fonts/GothamProLight/GothamProLight.eot");
+			src: url("../fonts/GothamProLight/GothamProLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProLight/GothamProLight.woff") format("woff"),
+			url("../fonts/GothamProLight/GothamProLight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProMediumItalic";
+			src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot");
+			src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProMediumItalic/GothamProMediumItalic.woff") format("woff"),
+			url("../fonts/GothamProMediumItalic/GothamProMediumItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProLightItalic";
+			src: url("../fonts/GothamProLightItalic/GothamProLightItalic.eot");
+			src: url("../fonts/GothamProLightItalic/GothamProLightItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProLightItalic/GothamProLightItalic.woff") format("woff"),
+			url("../fonts/GothamProLightItalic/GothamProLightItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProBoldItalic";
+			src: url("../fonts/GothamProBoldItalic/GothamProBoldItalic.eot");
+			src: url("../fonts/GothamProBoldItalic/GothamProBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProBoldItalic/GothamProBoldItalic.woff") format("woff"),
+			url("../fonts/GothamProBoldItalic/GothamProBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "GothamProBlackItalic";
+			src: url("../fonts/GothamProBlackItalic/GothamProBlackItalic.eot");
+			src: url("../fonts/GothamProBlackItalic/GothamProBlackItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProBlackItalic/GothamProBlackItalic.woff") format("woff"),
+			url("../fonts/GothamProBlackItalic/GothamProBlackItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+
+
+
+
+
+
+
+	@font-face {
+			font-family: "Circe-ExtraBold";
+			src: url("../fonts/Circe-ExtraBold/Circe-ExtraBold.eot");
+			src: url("../fonts/Circe-ExtraBold/Circe-ExtraBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-ExtraBold/Circe-ExtraBold.woff") format("woff"),
+			url("../fonts/Circe-ExtraBold/Circe-ExtraBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "Circe-ExtraLight";
+			src: url("../fonts/Circe-ExtraLight/Circe-ExtraLight.eot");
+			src: url("../fonts/Circe-ExtraLight/Circe-ExtraLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-ExtraLight/Circe-ExtraLight.woff") format("woff"),
+			url("../fonts/Circe-ExtraLight/Circe-ExtraLight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "Circe-Regular";
+			src: url("../fonts/Circe-Regular/Circe-Regular.eot");
+			src: url("../fonts/Circe-Regular/Circe-Regular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-Regular/Circe-Regular.woff") format("woff"),
+			url("../fonts/Circe-Regular/Circe-Regular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "Circe-Thin";
+			src: url("../fonts/Circe-Thin/Circe-Thin.eot");
+			src: url("../fonts/Circe-Thin/Circe-Thin.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-Thin/Circe-Thin.woff") format("woff"),
+			url("../fonts/Circe-Thin/Circe-Thin.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "Circe-Bold";
+			src: url("../fonts/Circe-Bold/Circe-Bold.eot");
+			src: url("../fonts/Circe-Bold/Circe-Bold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-Bold/Circe-Bold.woff") format("woff"),
+			url("../fonts/Circe-Bold/Circe-Bold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "Circe-Light";
+			src: url("../fonts/Circe-Light/Circe-Light.eot");
+			src: url("../fonts/Circe-Light/Circe-Light.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Circe-Light/Circe-Light.woff") format("woff"),
+			url("../fonts/Circe-Light/Circe-Light.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+body {
+
+}
+
+a,img,button {
+	border:none;
+	outline: none !important;
+	text-decoration: none;
+}
+
+.container-fluid {
+	margin:0px;
+	padding: 0px;
+}
+
+.header .one {
+	width: 50%;
+	min-height: 100vh;
+	background: url(../img/bg-one-header.png) center no-repeat;
+	background-size: cover;
+}
+
+.header .one .row {
+	padding: 30px;
+	height: 100vh;
+	background: #ea9424; /* Old browsers */
+    background: -webkit-linear-gradient(bottom left, rgba(234,148,36,0.6) 0%, rgba(236,40,141,0.6) 100%);
+    background: -o-linear-gradient(bottom left, rgba(234,148,36,0.6) 0%, rgba(236,40,141,0.6) 100%);
+    background: linear-gradient(to top right, rgba(234,148,36,0.6) 0%, rgba(236,40,141,0.6) 100%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea9424', endColorstr='#ec288d',GradientType=1 ); 
+}
+
+.header .two {
+	width: 50%;
+	height: 100vh;
+	background: rgba(139,47,244,1.0);
+	-webkit-box-shadow: inset 80px 0px 164px -40px rgba(28,28,28,0.44);
+	-moz-box-shadow: inset 80px 0px 164px -40px rgba(28,28,28,0.44);
+	box-shadow: inset 80px 0px 164px -40px rgba(28,28,28,0.44);
+	
+}
+
+.next {
+	position: absolute; 
+	bottom: 40px; 
+	left: calc(50% - 30px); 
+	z-index: 99999;
+}
+
+.next:hover {
+	cursor: pointer;
+}
+.header .two .row {
+	min-height: 100%;
+	background: url(../img/bg-two-header.png) center no-repeat;
+	background-size: contain;
+}
+
+
+.header .one p {
+	font-family: Circe-ExtraBold;
+	color: white;
+}
+
+.consult-p {
+	font-family: Circe-Bold !important; 
+	font-size: 27px;
+}
+
+.consult-p:after {
+	content: "";
+	display: block;
+	width: 70px;
+	height: 4px;
+	background: white;
+	margin: auto;
+}
+
+.consult button {
+	height: 80px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background: white;
+	border-radius: 30px;
+	border: none;
+	box-shadow: 0px 15px 50px rgba(118,55,67,0.5);
+	color: #D15F78;
+	font-family: Circe-Bold;
+	font-size: 33px;
+}
+
+.problem  {
+	padding-left: 35px;
+	padding-right: 35px;
+
+}
+
+
+.problem .container {
+	margin-top: 100px;
+	width: 100%;
+	background: #F2436C;
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 5px;
+	-webkit-box-shadow: 0px 0px 50px 0px rgba(107,96,225,1);
+	-moz-box-shadow: 0px 0px 50px 0px rgba(107,96,225,1);
+	box-shadow: 0px 0px 50px 0px rgba(107,96,225,1);
+}
+
+.problem h1 {
+	color:white; 
+	font-family:GothamProLight; 
+	font-size: 70px;
+}
+
+.problem p {
+	color:white; 
+	font-family: Circe-Regular;
+	font-size: 26px;
+}
+	
+.video  {
+	margin-top: 30px;
+	background: url(../img/video.png) center no-repeat;
+	background-size: cover;
+	width: 100%;
+	min-height: 700px;
+}
+
+.text p {
+	font-family: Circe-Regular;
+	font-size: 33px;
+	color: #522e8e;
+}
+
+.text .row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+.text span {
+	font-family: Circe-Regular;
+	font-size: 72px;
+	color: black;
+	letter-spacing: -18px;
+}
+
+.problems {
+	width: 100%;
+	background: url(../img/problems-bg.png) center no-repeat;
+	background-size: cover;
+}
+
+.problems-main {
+	margin-left: 35px;
+}
+
+.problems-main h1 {
+	font-family: GothamProRegular;
+	color: white;
+	font-size: 48px;
+	margin-top: 60px;
+}
+
+.problems-main .col-md-6 {
+	padding-bottom: 50px;
+}
+
+.problems-main .col-md-6 h2 {
+	font-family: Circe-Bold;
+	color: white;
+	font-size: 32px;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+.problems-main .col-md-6 h2:after {
+	content: "";
+	display: block;
+	height: 4px;
+	width: 35px;
+	background: #FFDE00;
+}
+
+.problems-main .col-md-6 p {
+	font-family: Circe-Regular;
+	color: white;
+	width: 70%;
+	font-size: 24px;
+}
+
+
+.form  {
+	padding: 35px;
+}
+
+.form-group {
+	margin-top: 35px;
+	margin-bottom: 60px;
+}
+
+.form .container {
+	width: 100%;
+	background: #8250D9;
+	border-radius: 3px;
+	-webkit-box-shadow: 0px 0px 50px 10px rgba(130,80,217,0.32);
+	-moz-box-shadow: 0px 0px 50px 10px rgba(130,80,217,0.32);
+	box-shadow: 0px 0px 50px 10px rgba(130,80,217,0.32);
+}
+
+
+.form .container h1 {
+	font-family: GothamProLight;
+	font-size: 36px;
+	color: white;
+}
+
+.form .container p {
+	font-family: GothamProRegular;
+	font-size: 14px;
+	color: white;
+	opacity: 0.59;
+}
+
+.form .container input {
+	display: inline-block;
+	width: auto;
+	color: black;
+	height: auto;
+	margin-left: 5px;
+	font-family: Circe-Light;
+	font-size: 26px;
+	border-radius: 20px;
+}
+
+.form .container input::-webkit-input-placeholder {
+	color: black;
+}
+
+.form .container input::-moz-placeholder  {
+	color: black;
+}
+
+.form .container input:-moz-placeholder  {
+	color: black;
+}
+
+.form .container input:-ms-input-placeholder  {
+	color: black;
+}
+
+.form .container button  {
+	display: inline-block;
+	width: auto;
+	font-family: Circe-Light;
+	font-size: 26px;
+	color: white;
+	border-radius: 20px;
+	vertical-align:baseline;
+	background: #3CA8ED;
+	text-shadow: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: none;
+	-webkit-box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+	-moz-box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+	box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+}
+
+.reshenie li {
+	list-style: none;
+	font-family: Circe-Regular;
+	font-size: 29px;
+}
+.num  {
+	color: black;
+	background: #2980B9;
+	display: inline-block;
+	text-align: center;
+	line-height: 160px;
+	border-radius: 50%;
+	margin-right: -50px;
+	font-family: GothamProLight;
+	font-size: 72px;
+	width: 160px;
+	height: 160px;
+}
+
+.num-1 {
+	background: #F2EBFB;
+}
+
+.num-2 {
+	background: #E4F8E7;
+}
+
+.num-3 {
+	background: #FEF4E3;
+}
+
+.num-4 {
+	background: #FEEAEF;
+}
+
+.zagolovok-1 {
+	font-family: GothamProLight;
+	font-size: 72px;
+}
+
+.zagolovok-2 {
+	font-family: Circe-Bold;
+	font-size: 33px;
+}
+
+
+.result-1 {
+	background: url(../img/result-1.jpg) center no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height:593px;
+	display: flex;
+	margin: auto;
+}
+
+.result-2 {
+	background: url(../img/result-2.jpg) center no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height:593px;
+	display: flex;
+	margin: auto;
+}
+
+.result-3 {
+	background: url(../img/result-3.png) center no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height:593px;
+	display: flex;
+	margin: auto;
+}
+.result-content {
+	min-width: 300px;
+	min-height: 120px;
+	background: white;
+	border-radius: 3px;
+	align-self: center;
+	margin: auto;
+	-webkit-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	-moz-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	font-family: Circe-Regular;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 35px;
+	padding: 10px;
+}
+
+.lll {
+	width: 100%;
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.result-end {
+	max-width: 900px;
+	min-height: 280px;
+	background: #468FF3;
+	border-radius: 5px;
+	margin: auto;
+	-webkit-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	-moz-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+}
+
+
+.result-end h1 {
+	color: white;
+	font-family: Circe-ExtraBold;
+	font-size: 44px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+
+.result-end p {
+	color: white;
+	font-family: Circe-Regular;
+	font-size: 32px;
+}
+
+.zanyatia  {
+	padding: 35px;
+	display: flex;
+	align-items: center;
+}
+
+.zanyatia h1  {
+	font-family: Circe-Bold;
+	font-size: 44px;
+	color: #468FF3;
+}
+
+.zanyatia p  {
+	font-family: Circe-Bold;
+	font-size: 29px;
+	color: #F1436C;
+	width: 300px;
+}
+
+.zanyatia .container {
+	width: 100%;
+	min-height: 400px;
+	background:white;
+	border-radius: 5px;
+	-webkit-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	-moz-box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+	box-shadow: 0px 0px 40px 5px rgba(107,96,225,0.5);
+}
+
+
+.zanyatia-content {
+	float: left;
+	margin: auto;
+}
+
+
+.zanyatia-main {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top:60px;
+}
+
+.program {
+	background: url(../img/bg-program.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.programma-kursa {
+	max-width: 900px;
+	background: white;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	transition: 1s;
+    animation: 1s;
+	padding-bottom: 50px;
+	-webkit-box-shadow: 0px 0px 33px 9px rgba(107,96,225,0.57);
+	-moz-box-shadow: 0px 0px 33px 9px rgba(107,96,225,0.57);
+	box-shadow: 0px 0px 33px 9px rgba(107,96,225,0.57);
+}
+
+.programma-kursa h1 {
+	font-family: GothamProLight;
+	font-size: 72px;
+	color: #586EE3;
+	letter-spacing: -0.1em;
+	padding-top: 40px;
+	margin-bottom: 60px;
+}
+
+.programma-kursa li {
+	font-family: Circe-Light;
+	font-size: 37px;
+	color: black;
+	margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    transition: 1s;
+    animation: 1s;
+}
+
+
+.programma-kursa ol {
+	margin-left: 10px;
+}
+
+.programma-kursa button  {
+	display: block;
+	max-width: 300px;
+	font-family: Circe-Light;
+	font-size: 26px;
+	color: white !important;
+	border-radius: 20px;
+	vertical-align:baseline;
+	background: #3CA8ED !important;
+	text-shadow: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: none;
+	-webkit-box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+	-moz-box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+	box-shadow: 0px 21px 50px -4px rgba(0,42,255,0.46);
+}
+
+.hiden {
+	opacity: 0;
+	display: none;
+}
+
+.reviews {
+	padding:50px;
+}
+
+.reviews .container {
+	width: 100%;
+}
+
+.reviews-caption {
+	font-family: GothamProLight;
+	font-size: 72px;
+	color: black;
+}
+
+.reviews .carousel-inner img {
+	float: left;
+	margin-left: 10px;
+	width: 40%;
+}
+
+
+.reviews .carousel-caption {
+	position:initial;
+	color: black;
+	text-shadow: none;
+	text-align: left !important;
+}
+
+.reviews .carousel-inner {
+	margin-top: 30px;
+}
+
+.reviews .carousel-control {
+	background: none;
+	margin-left:calc(30%);
+	margin-right:calc(30%);
+	opacity: 1;
+}
+
+.images-slider {
+	float: left;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: auto;
+	border-radius: 10px;
+	height: auto;
+	margin: 20px;
+	-webkit-box-shadow: 0px 0px 20px -3px rgba(0,0,0,1);
+	-moz-box-shadow: 0px 0px 20px -3px rgba(0,0,0,1);
+	box-shadow: 0px 0px 20px -3px rgba(0,0,0,1);
+}
+
+.name-slider {
+	font-family: Circe-ExtraBold;
+	color: black;
+	font-size: 38px;
+}
+
+.reviews .carousel-caption h3 {
+	font-family: Circe-ExtraBold;
+	color: black;
+	font-size: 34px;
+}
+
+
+.reviews .carousel-caption p {
+	font-family: Circe-Regular;
+	color: black;
+	font-size: 24px;
+}
+
+
+.review-text {
+	margin-top: 100px;
+	padding: 55px;
+	border-radius: 15px;
+	border:3px solid #5371F4;
+	font-family: Circe-Regular;
+	color: black;
+	font-size: 24px;
+
+}
+
+.online-platform  {
+	margin-top: 100px;
+}
+
+.online-platform h1 {
+	font-family: Circe-Regular;
+	color: #505050;
+	font-size: 43px;
+}
+
+.online-platform p {
+	font-family: Circe-Regular;
+	font-size: 24px;
+	color: black;
+}
+
+.online-platform ul li {
+	list-style: none;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	color: #4F4F4F;
+}
+
+.online-platform .two {
+	margin-top: 250px;
+}
+
+.online-platform .two img {
+	padding: 10px;
+}
+
+.online-img-bg {
+	position: absolute;
+	z-index: -1;
+	width:750px;
+	height: 750px;
+	margin-left: -340px;
+	margin-top: -150px;
+	border-radius: 50%;
+	background: rgba(137,75,215,0.1);
+}
+
+.anna {
+	font-family: Circe-ExtraLight !important;
+	font-size: 60px !important;
+	color:#B82F80 !important;
+}
+
+.online-platform .three a {
+	font-family: Circe-Bold;
+	font-size: 22px;
+	color: #6378ED;
+}
+
+.footer {
+	width: 100%;
+	background: #6E25C0;
+}
+
+.carts {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+}
+
+.cart {
+	width: 320px;
+	min-height: 630px;
+	border-radius: 10px;
+	border: 3px solid white;
+	margin-left: 35px;
+	padding: 15px;
+	position: relative;
+	display: flex;
+	flex-direction:column;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.cart:hover {
+	background: white;
+}
+
+.cart-caption-1 {
+	margin-top: 25px;
+	font-family: Circe-Bold;
+	font-size: 23px;
+	color: white;
+	padding-bottom: 30px;
+	border-bottom:1px solid #D8D8D8;
+}
+
+.cart-caption-2 {
+	font-family: Circe-Regular;
+	font-size: 20px;
+	color: white;
+	padding-bottom: 5px;
+	text-align: left;	
+	align-self: flex-start;
+}
+
+.price {
+	text-align: center;
+	font-family: Circe-Regular;
+	font-size: 44px;
+	color: white;
+	left: 80px;
+	bottom: 80px;
+}
+
+.cart:hover label:after {
+    border:2px solid #9C9595;
+}
+
+.cart:hover .cart-caption-1 {
+    color: #5F193E;
+}
+
+.cart:hover .cart-caption-2 {
+    color: #353535;
+}
+
+
+.cart:hover .price {
+    color: #353535;
+}
+
+.footer button {
+	bottom: 0px;
+	left: 30px;
+	height: 60px;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	color: white !important;
+	text-transform: uppercase;
+	background: #F36178 !important;
+	border-radius: 5px;
+	text-shadow: none !important;
+	border: none !important;
+	margin-bottom: 30px;
+}
+
+.footer .row {
+	
+}
+
+.footer .row input,select {
+	margin: 10px;
+	background: #6E25C0;
+	border-radius: 3px;
+	border: 2px solid white;
+	outline: none;
+	width: 400px;
+	height: 60px;
+	padding-left: 10px;
+	color: white;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.footer .row input::-webkit-input-placeholder {
+	color: white;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.footer .row input::-moz-placeholder  {
+	color: white;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.footer .row input:-moz-placeholder  {
+	color: white;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.footer .row input:-ms-input-placeholder  {
+	color: white;
+	font-family: Circe-Bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.footer .row label  {
+	padding-left: 30px;
+}
+
+.footer-end {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Cначала обозначаем стили для IE8 и более старых версий
+т.е. здесь мы немного облагораживаем стандартный чекбокс. */
+.checkbox {
+  vertical-align: top;
+  width: 17px;
+  height: 17px;
+}
+/* Это для всех браузеров, кроме совсем старых, которые не поддерживают
+селекторы с плюсом. Показываем, что label кликабелен. */
+.checkbox + label {
+  cursor: pointer;
+}
+
+/* Далее идет оформление чекбокса в современных браузерах, а также IE9 и выше.
+Благодаря тому, что старые браузеры не поддерживают селекторы :not и :checked,
+в них все нижеследующие стили не сработают. */
+
+/* Прячем оригинальный чекбокс. */
+.checkbox:not(checked) {
+  position: absolute;
+  opacity: 0;
+}
+.checkbox:not(checked) + label {
+  position: relative; /* будем позиционировать псевдочекбокс относительно label */
+  margin-left: -20px; /* оставляем слева от label место под псевдочекбокс */
+}
+/* Оформление первой части чекбокса в выключенном состоянии (фон). */
+.checkbox:not(checked) + label:before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 5px;
+
+}
+/* Оформление второй части чекбокса в выключенном состоянии (переключатель). */
+.checkbox:not(checked) + label:after {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left:0px;
+  width: 26px;
+  height: 26px;
+  border-radius: 5px;
+  background: #6E25C0;
+  border:2px solid white;
+  transition: all .2s; /* анимация, чтобы чекбокс переключался плавно */
+}
+
+
+/* Сдвигаем переключатель чекбокса, когда он включен. */
+.checkbox:checked + label:after {
+  left: 0px;
+    background: url(../img/checked.png) center no-repeat;
+    border:2px solid #9C9595;
+}
+/* Показываем получение фокуса. */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 991px) {
+	.header .one {
+	width: 100%;
+	min-height: 100vh;
+}
+   
+   	.header .two {
+	width: 100%;
+	min-height: 100vh;
+	box-shadow: none;
+}
+
+
+	.header .one .row {
+	padding: 5px;
+	min-height: 100vh;
+}
+   
+   	.header .two .row{
+	padding: 5px;
+	min-height: 100vh;
+}
+	.next {
+		display: none !important;
+	}
+
+}
+
